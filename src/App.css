@@ -1,0 +1,14 @@
+body {
+  background-color: #6f4e37;
+}
+
+.App {
+  text-align: center;
+  color: orange;
+  margin: 1.8em;
+  padding: 4px;
+  border: 5px solid #b87333;
+  border-style: double;
+  border-radius: 8px;
+  background-color: #6f4e37;
+}
